@@ -1,2 +1,3 @@
 FROM alpine
-RUN apy update
+
+RUN apt update
