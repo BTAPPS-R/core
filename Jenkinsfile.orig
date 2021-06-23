@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+node(){
+   statges{
+    stage(){
+      echo "test"    
+}
+}
+=======
+def hello(Stirng abc){
+ echo "hello wolrd $abc"
+>>>>>>> 957b985304cc7196140d800512557d7e738dcee5
+}
